@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaron and Alana</title>
+    <description>June 12, 2020
+</description>
+    <link>https://aaronandalana.wedding/</link>
+    <atom:link href="https://aaronandalana.wedding/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 09 Apr 2021 01:16:33 +1000</pubDate>
+    <lastBuildDate>Fri, 09 Apr 2021 01:16:33 +1000</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+  </channel>
+</rss>
