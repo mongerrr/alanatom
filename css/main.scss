@@ -8,7 +8,7 @@ $baseurl: '{{ site.baseurl }}/images';
 @import 'libs/functions';
 @import 'libs/mixins';
 @import 'font-awesome.min.css';
-@import url('https://fonts.googleapis.com/css?family=Dancing+Script:700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aladin&display=swap');
 @import url('http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif&display=swap');
 /*
@@ -106,7 +106,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 h1 {
-	font-family: 'Dancing Script', cursive;
+	font-family: 'Aladin', cursive;
 }
 	h2 {
 		font-size: 1.35em;
@@ -1435,7 +1435,7 @@ h1 {
 						display: block;
 						font-size: 0.8em;
 						padding: 0 1.5em;
-						font-family: 'Dancing Script',cursive;
+						font-family: 'Aladin',cursive;
 					/*	text-transform: uppercase; */
 
 						&.menuToggle {
@@ -1501,7 +1501,7 @@ h1 {
 			@include vendor('transform', 'scale(1)');
 			@include vendor('transition', ('transform 0.5s ease', 'opacity 0.5s ease'));
 			display: inline-block;
-			font-family: "Dancing Script", cursive;
+			font-family: "Aladin", cursive;
 			font-size: 3.0em;
 			opacity: 1;
 			padding: 0.35em 1em;
