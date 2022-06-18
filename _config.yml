@@ -1,24 +1,24 @@
 # Welcome to Jekyll!
 
 # Site settings
-title: "Aaron and Alana"
+title: "Alanah and Tom"
 description: |
-  June 12, 2021
+  October 8
 owner: Aaron Monger
-first_published: 2020 # if migrating another site, the year of your first publish
-email: amonger@gmail.com
+first_published: 2022 # if migrating another site, the year of your first publish
+email: allymonger@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://aaronandalana.wedding" # the base hostname & protocol for your site
+url: "https://mycoyne.net" # the base hostname & protocol for your site
 
 google_analytics: UA-79603429-1
 
 social:
   #github: https://github.com/
   #linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/alana.h4
+  facebook-official: https://facebook.com/allymonger
   #email: /contact/
   #flickr:
-  instagram: https://instagram.com/benjamin_the_doggo
+  instagram: https://instagram.com/alanahbanana__
   #youtube-square:
   #spotify:
   #stack-overflow:
